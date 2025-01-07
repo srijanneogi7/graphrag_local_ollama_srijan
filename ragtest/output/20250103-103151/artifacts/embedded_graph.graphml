@@ -1,0 +1,25 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DHAVAL GALA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dhaval Gala is the fund manager of Aditya Birla SL Banking&amp;Financial Services-DirGrowth."</data>
+      <data key="d2">901cb140e6da8ec54c839cf78190dc89</data>
+    </node>
+    <node id="&quot;ADITYA BIRLA SUN LIFE MUTUAL FUND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">901cb140e6da8ec54c839cf78190dc89</data>
+    </node>
+    <edge source="&quot;DHAVAL GALA&quot;" target="&quot;ADITYA BIRLA SUN LIFE MUTUAL FUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dhaval Gala manages the mutual funds offered by Aditya Birla Sun Life Mutual Fund."</data>
+      <data key="d5">901cb140e6da8ec54c839cf78190dc89</data>
+    </edge>
+  </graph>
+</graphml>

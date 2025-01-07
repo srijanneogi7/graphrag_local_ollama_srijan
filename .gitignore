@@ -17,7 +17,7 @@ docsite/.yarn/*
 !docsite/.yarn/versions
 docsite/.pnp.*
 
-./ragtest
+
 
 .yarn/*
 !.yarn/patches
@@ -64,7 +64,5 @@ __blobstorage*.json
 __blobstorage__/
 
 # Getting started example
-ragtest/
-.ragtest/
 .pipelines
 .pipeline

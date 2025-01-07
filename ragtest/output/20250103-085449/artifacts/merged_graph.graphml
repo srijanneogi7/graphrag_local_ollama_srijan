@@ -1,0 +1,37 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ATUL PENKAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Atul Penkar is the fund manager of Aditya Birla SL Bal Bhavishya Yojna."</data>
+      <data key="d2">fdab3017468b7973fa1ade261a25eeae</data>
+    </node>
+    <node id="&quot;ADITYA BIRLA SL BAL BHAVISHYA YOJNA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Aditya Birla SL Bal Bhavishya Yojna is a financial scheme offered by Aditya Birla Sun Life Mutual Fund."</data>
+      <data key="d2">fdab3017468b7973fa1ade261a25eeae</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is a geographical location where the fund is available for investment."</data>
+      <data key="d2">fdab3017468b7973fa1ade261a25eeae</data>
+    </node>
+    <node id="&quot;CHILDRENS FUNDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Childrens Funds is a sub-category of investment schemes offered by Aditya Birla Sun Life Mutual Fund."</data>
+      <data key="d2">fdab3017468b7973fa1ade261a25eeae</data>
+    </node>
+    <node id="&quot;DHAVAL GALA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dhaval Gala is the fund manager of Aditya Birla SL Banking&amp;Financial Services-DirGrowth."</data>
+      <data key="d2">901cb140e6da8ec54c839cf78190dc89</data>
+    </node>
+    <node id="&quot;ADITYA BIRLA SL BANKING&amp;FINANCIAL SERVICES-DIRGROWTH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Aditya Birla SL Banking&amp;Financial Services-DirGrowth is a financial services organization offering mutual funds."</data>
+      <data key="d2">901cb140e6da8ec54c839cf78190dc89</data>
+    </node>
+  </graph>
+</graphml>
